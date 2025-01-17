@@ -34,11 +34,11 @@
         src="./assets/twitter-svgrepo-com.svg"
         alt="derrick lee twitter" height="30" width="40" />
     </a>
-    <a href="#" target="blank"><img align="center"
+    <a href="https://join.skype.com/invite/GcEKe1pUHTa7" target="blank"><img align="center"
         src="./assets/skype-svgrepo-com.svg"
         alt="derrick lee skype" height="30" width="40" />
     </a>
-    <a href="#" target="blank"><img align="center"
+    <a href="mailto:derricklee918@gmail.com" target="blank"><img align="center"
         src="./assets/google-gmail-svgrepo-com.svg"
         alt="derrick lee" height="30" width="40" />
     </a>
