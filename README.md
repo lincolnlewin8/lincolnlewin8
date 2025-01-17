@@ -22,15 +22,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="#" target="blank"><img align="center"
+    <a href="https://discordapp.com/users/352387576017190913" target="blank"><img align="center"
         src="./assets/discord-icon-svgrepo-com.svg"
         alt="derrick lee discord" height="30" width="40" />
     </a>
-    <a href="#" target="blank"><img align="center"
+    <a href="https://t.me/@dwlee918" target="blank"><img align="center"
         src="./assets/telegram-svgrepo-com.svg"
         alt="derrick lee telegram" height="30" width="40" />
     </a>
-    <a href="#" target="blank"><img align="center"
+    <a href="https://x.com/dwlee918" target="blank"><img align="center"
         src="./assets/twitter-svgrepo-com.svg"
         alt="derrick lee twitter" height="30" width="40" />
     </a>
@@ -42,7 +42,7 @@
         src="./assets/google-gmail-svgrepo-com.svg"
         alt="derrick lee" height="30" width="40" />
     </a>
-    <a href="#" target="blank"><img align="center"
+    <a href="https://medium.com/@dwlee91" target="blank"><img align="center"
         src="./assets/medium-icon-svgrepo-com.svg"
         alt="derrick lee" height="30" width="40" />
     </a>
