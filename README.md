@@ -20,15 +20,6 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    
-    <a href="https://t.me/lincolnlewin" target="blank"><img align="center"
-        src="./assets/telegram-svgrepo-com.svg"
-        alt="derrick lee telegram" height="30" width="40" />
-    </a>
-</p>
-
 <br>
 
 <h3 align="left">Skills:</h3>
@@ -55,7 +46,5 @@
         alt="solana" width="40" height="40" />
     <img src="./assets/bitcoin-svgrepo-com.svg"
         alt="bitcoin" width="40" height="40" />
-    <img src="./assets/ethereum-svgrepo-com.svg"
-        alt="ethereum" width="40" height="40" />
 </p>
 <br>
