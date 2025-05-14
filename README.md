@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Derrick Lee</h1>
+<h1 align="center">Hi 👋, I'm Lincoln Lewin</h1>
 <h3 align="center">Solana Blockchain | Web3 | Trading Bot Developer.</h3>
 
 <br>
@@ -22,29 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://discordapp.com/users/352387576017190913" target="blank"><img align="center"
-        src="./assets/discord-icon-svgrepo-com.svg"
-        alt="derrick lee discord" height="30" width="40" />
-    </a>
-    <a href="https://t.me/@dwlee918" target="blank"><img align="center"
+    
+    <a href="https://t.me/lincolnlewin" target="blank"><img align="center"
         src="./assets/telegram-svgrepo-com.svg"
         alt="derrick lee telegram" height="30" width="40" />
-    </a>
-    <a href="https://x.com/dwlee918" target="blank"><img align="center"
-        src="./assets/twitter-svgrepo-com.svg"
-        alt="derrick lee twitter" height="30" width="40" />
-    </a>
-    <a href="https://join.skype.com/invite/GcEKe1pUHTa7" target="blank"><img align="center"
-        src="./assets/skype-svgrepo-com.svg"
-        alt="derrick lee skype" height="30" width="40" />
-    </a>
-    <a href="mailto:derricklee918@gmail.com" target="blank"><img align="center"
-        src="./assets/google-gmail-svgrepo-com.svg"
-        alt="derrick lee" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@dwlee91" target="blank"><img align="center"
-        src="./assets/medium-icon-svgrepo-com.svg"
-        alt="derrick lee" height="30" width="40" />
     </a>
 </p>
 
